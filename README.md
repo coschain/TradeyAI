@@ -11,6 +11,12 @@ npm i
 cp .env.example .env
 ```
 
+Update kols.json with the list of KOLs you want to track.
+
+```bash
+vi kols.json
+```
+
 Run index.js to fetch the latest tweets from KOLs within the past hour, analyze the current market trend, and send a signal to the webhook.
 
 ```bash
