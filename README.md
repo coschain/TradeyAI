@@ -23,7 +23,7 @@ Run index.js to fetch the latest tweets from KOLs within the past hour, analyze 
 node index.js
 ```
 
-# Folder Structure
+## Folder Structure
 
     .
     ├── openai             # openai api
@@ -34,3 +34,9 @@ node index.js
     ├── kols.json          # list of KOLs
     ├── README.md
     └── ...
+
+## Disclaimer
+
+The information, analysis, and suggestions provided by TradeyAI are for informational purposes only and do not constitute financial or investment advice. Cryptocurrency markets are highly volatile. Please evaluate risks independently and consult with a professional advisor before making any investment decisions. By using this bot, you agree to bear full responsibility for any trading outcomes.
+
+[View Full Disclaimer](DISCLAIMER.md)
